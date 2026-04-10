@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Beautiful Mountain Sunset",
+    "imageUrl": "https://picsum.photos/id/104/400/300",
+    "thumbnailUrl": "https://picsum.photos/id/104/200/150"
+  },
+  {
+    "id": 2,
+    "title": "Modern City Skyline",
+    "imageUrl": "https://picsum.photos/id/106/400/300",
+    "thumbnailUrl": "https://picsum.photos/id/106/200/150"
+  },
+  {
+    "id": 3,
+    "title": "Tropical Beach Paradise",
+    "imageUrl": "https://picsum.photos/id/100/400/300",
+    "thumbnailUrl": "https://picsum.photos/id/100/200/150"
+  },
+  {
+    "id": 4,
+    "title": "Forest Waterfall",
+    "imageUrl": "https://picsum.photos/id/96/400/300",
+    "thumbnailUrl": "https://picsum.photos/id/96/200/150"
+  },
+  {
+    "id": 5,
+    "title": "Desert Dunes at Dawn",
+    "imageUrl": "https://picsum.photos/id/116/400/300",
+    "thumbnailUrl": "https://picsum.photos/id/116/200/150"
+  },
+  {
+    "id": 6,
+    "title": "Snowy Mountain Peak",
+    "imageUrl": "https://picsum.photos/id/102/400/300",
+    "thumbnailUrl": "https://picsum.photos/id/102/200/150"
+  },
+  {
+    "id": 7,
+    "title": "Colorful Flower Garden",
+    "imageUrl": "https://picsum.photos/id/92/400/300",
+    "thumbnailUrl": "https://picsum.photos/id/92/200/150"
+  },
+  {
+    "id": 8,
+    "title": "Night Starry Sky",
+    "imageUrl": "https://picsum.photos/id/119/400/300",
+    "thumbnailUrl": "https://picsum.photos/id/119/200/150"
+  },
+  {
+    "id": 9,
+    "title": "Ancient Temple Ruins",
+    "imageUrl": "https://picsum.photos/id/86/400/300",
+    "thumbnailUrl": "https://picsum.photos/id/86/200/150"
+  },
+  {
+    "id": 10,
+    "title": "Peaceful Lake Reflection",
+    "imageUrl": "https://picsum.photos/id/30/400/300",
+    "thumbnailUrl": "https://picsum.photos/id/30/200/150"
+  }
+]
